@@ -1,0 +1,5 @@
+2022-07-06 12:43:37,138:ERROR:Tried to divide by zero
+Traceback (most recent call last):
+  File "/Users/anmolarora/Desktop/Galaxy/projects/python_lessons/logging/advance/employees.py", line 32, in divide
+    result = x / y
+ZeroDivisionError: division by zero
